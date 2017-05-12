@@ -1,3 +1,6 @@
+Hola vengo a escribir un poco
+
+
 #Maquetado del Html .html
 <div class="primer-ejercicio">
   <div class="bloque1"></div>
@@ -54,6 +57,8 @@
   position: absolute;
   margin-top: -180px; 
   }
+  este comentario es basura eliminese en el siguiente commit
+  
 .bloque5{
     margin: 10px 40px;
  width: 130px;
