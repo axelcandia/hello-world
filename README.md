@@ -32,7 +32,7 @@
  border: 10px solid black;
   }
 
-.bloque2{
+.bloque2{ 
  width: 50px;
  height: 120px;
   border: 10px solid black;
